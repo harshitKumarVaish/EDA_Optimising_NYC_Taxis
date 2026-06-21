@@ -91,7 +91,3 @@ Recommended library versions used in the notebook:
 - `Harshit_Kumar_Vaish_EDA_Optimising_NYC_Taxis.ipynb` - Jupyter notebook containing the full EDA workflow, visualisations, and recommendations.
 - `Harshit_Kumar_Vaish_EDA_Optimising_NYC_Taxis_report.pdf` - Project report summarising the analysis.
 
-
-## Resume Summary
-
-Performed exploratory data analysis on 2023 NYC Yellow Taxi trip records to identify demand patterns, revenue trends, high-traffic zones, and pricing opportunities. Cleaned and transformed large-scale trip data, analysed temporal and geographic trends, visualised operational bottlenecks, and developed recommendations for cab allocation, dynamic pricing, distance-tier pricing, and improved customer experience.
